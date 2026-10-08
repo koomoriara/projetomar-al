@@ -4,9 +4,9 @@ function Navbar() {
   
   return (
     <>
-      <h1>Nav bar</h1>
+      <h1>Navbar</h1>
     </>
   )
-}
+}   
 
 export default Navbar
